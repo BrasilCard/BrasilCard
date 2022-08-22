@@ -487,6 +487,7 @@ ul{
     list-style-type: none;
 }
 .menu{
+    margin-right: 5px;
     display: none;
     font-size: 1.3em;
     
