@@ -106,12 +106,13 @@ main{
     background-size: contain;
     background-repeat: no-repeat;
     width: 100vw;
-    height: 65vh;
+    height: 33vh;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
     align-items: center;
-    align-content: flex-start;
+    align-content: space-around;
 }
 
 #dvslider img{
