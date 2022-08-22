@@ -51,7 +51,7 @@ header{
 }
 #cab img{
     width: 15%;
-    margin-left: 0px;
+    margin-left: -10px;
     
 }
 @media  screen and (max-width: 500px){
