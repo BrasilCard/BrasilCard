@@ -51,7 +51,7 @@ header{
 }
 #cab img{
     width: 15%;
-    margin-left: -10px;
+    margin-left: 5px;
     
 }
 @media  screen and (max-width: 500px){
@@ -106,7 +106,7 @@ main{
     background-size: contain;
     background-repeat: no-repeat;
     width: 100vw;
-    height: 40vh;
+    height: 35vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
