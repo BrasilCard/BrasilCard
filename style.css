@@ -35,8 +35,8 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding-top: 17px;
-    padding-bottom: 17px;
+    padding-top: 18px;
+    padding-bottom: 18px;
     
 }
 .hed{
@@ -44,7 +44,7 @@ header{
 }
 
 #cab{
-    margin-right: 10%;
+    margin-right: 5%;
     display: flex;
     align-items: center;
     
