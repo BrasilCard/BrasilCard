@@ -5,14 +5,15 @@ var maxImg;
 var tmp;
 
 
+
 function precarregamento(){
     var s=1;
     for(var i=0;i<11;i++){
     imgs[i]=new Image();
-    imgs[i].src="img/s"+s+".jpg";
+    imgs[i].src="img/r"+s+".jpg";
     s++;
     }
-   
+  
 }
 function carregar(img){
     slid.style.backgroundImage="url('"+imgs[img].src+"')"
