@@ -433,7 +433,7 @@ textarea{
 
 footer{
     position:absolute;
-    bottom: -2350px;
+    bottom: -1850px;
    
     width: 98%;
     background-image: linear-gradient(to bottom ,#023059,#024580,#023059);
@@ -462,10 +462,10 @@ iframe{
 position: fixed;
 bottom: 5px;
 right: 5px;
-width: 9%;
+width: 15%;
 }
 .whats:hover img{
-    width: 10%; 
+    width: 17%; 
 }
 .bt{
     background-color: #01213d3f;
