@@ -106,7 +106,7 @@ main{
     background-size: contain;
     background-repeat: no-repeat;
     width: 100vw;
-    height: 46vh;
+    height: 40vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
