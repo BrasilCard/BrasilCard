@@ -432,7 +432,7 @@ textarea{
 
 footer{
     position:absolute;
-    bottom: -2150px;
+    bottom: -2100px;
    
     width: 98%;
     background-image: linear-gradient(to bottom ,#023059,#024580,#023059);
@@ -542,7 +542,7 @@ li:hover a{
     #dvslider {
         width: 85vw;
         height: 70vh;
-       margin-left: 10%;
+       margin-left: 15%;
   }
   #cab{
     margin-right: 15%;
