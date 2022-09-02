@@ -110,7 +110,7 @@ main{
     display: flex;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+   
     align-content: space-around;
 }
 
@@ -537,12 +537,12 @@ li:hover a{
     font-size: 1.2em;
   
 }
-@media  screen and (max-width: 1050px){
+@media  screen and (min-width: 550px){
    
     #dvslider {
         width: 85vw;
         height: 70vh;
-       margin-left: 15%;
+       margin-left: 10%;
   }
   #cab{
     margin-right: 15%;
@@ -556,4 +556,17 @@ li:hover a{
     
 }
 }
-  
+
+@media  screen and (max-width: 500px){
+   
+    #resp{
+        display: block;
+    }
+    #dvslider {
+        width: 100vw;
+        height: 34vh;
+        margin-left: 3%;
+  }
+    
+  }
+ 
