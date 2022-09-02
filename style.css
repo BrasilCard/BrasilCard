@@ -432,7 +432,7 @@ textarea{
 
 footer{
     position:absolute;
-    bottom: -2100px;
+    bottom: -2150px;
    
     width: 98%;
     background-image: linear-gradient(to bottom ,#023059,#024580,#023059);
@@ -537,7 +537,7 @@ li:hover a{
     font-size: 1.2em;
   
 }
-@media  screen and (min-width: 550px){
+@media  screen and (min-width: 500px){
    
     #dvslider {
         width: 85vw;
@@ -565,7 +565,7 @@ li:hover a{
     #dvslider {
         width: 100vw;
         height: 34vh;
-        margin-left: 3%;
+        margin-left: 5%;
   }
     
   }
