@@ -540,8 +540,10 @@ li:hover a{
 @media  screen and (max-width: 1050px){
    
     #dvslider {
-        width: 100vw;
+        width: 85vw;
         height: 70vh;
-    
-  }}
+       margin-left: 15%;
+  }
+ 
+}
   
