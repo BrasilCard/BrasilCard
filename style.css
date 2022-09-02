@@ -538,5 +538,13 @@ li:hover a{
     font-size: 1.2em;
   
 }
-
+@media  screen and (max-width: 750px){
+   
+    #dvslider {
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 100vw;
+        height: 70vh;
+    
+  }}
   
