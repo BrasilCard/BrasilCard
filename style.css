@@ -574,8 +574,8 @@ li:hover a{
     }
     #dvslider {
         width: 100vw;
-        height: 17vh;
-      
+        height: 20vh;
+        margin-top: -50px;
   }
     
   }
