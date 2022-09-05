@@ -290,7 +290,7 @@ strong{
     box-shadow: 2px 3px 2px rgba(173, 219, 6, 0.582);
 }
 #video{
-    display: flex;
+    display: block;
     padding: 10px;
     width: 98%;
     justify-content: space-between
@@ -299,7 +299,7 @@ strong{
 .vid{
     display: flex;
     padding: 10px;
-    width: 49%;
+    width: 97%;
     align-items: center;
     
 }
@@ -432,7 +432,7 @@ textarea{
 
 footer{
     position:absolute;
-    bottom: -2100px;
+    bottom: -2330px;
    
     width: 98%;
     background-image: linear-gradient(to bottom ,#023059,#024580,#023059);
@@ -540,9 +540,9 @@ li:hover a{
 @media  screen and (min-width: 500px){
    
     #dvslider {
-        width: 85vw;
-        height: 70vh;
-       margin-left: 15%;
+        width: 100vw;
+        height: 40vh;
+      
   }
   #cab{
     margin-right: 15%;
@@ -565,7 +565,7 @@ li:hover a{
     #dvslider {
         width: 100vw;
         height: 34vh;
-        margin-left: 5%;
+      
   }
     
   }
